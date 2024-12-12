@@ -5,7 +5,7 @@ metadata:
   namespace: aap
 spec:
   connection_secret: controller-access
-  workflow_template_name: [WF] Create VM and install Jboss
+  workflow_template_name: '[WF] Create VM and install Jboss'
   extra_vars:
     my_namespace: jboss-9-dev
     my_git_repo: jboss-9
